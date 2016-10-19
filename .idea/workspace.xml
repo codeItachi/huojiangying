@@ -27,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47493404">
-              <caret line="53" column="58" selection-start-line="53" selection-start-column="58" selection-end-line="53" selection-end-column="58" />
+            <state vertical-scroll-proportion="0.23746702">
+              <caret line="17" column="87" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="87" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -205,7 +205,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1292" height="1000" extended-state="1" />
+    <frame x="-8" y="-8" width="1292" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13733552" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -333,8 +333,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47493404">
-          <caret line="53" column="58" selection-start-line="53" selection-start-column="58" selection-end-line="53" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.23746702">
+          <caret line="17" column="87" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="87" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
